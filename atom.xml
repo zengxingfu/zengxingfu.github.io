@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://zxf.one/"/>
-  <updated>2019-06-02T14:26:05.747Z</updated>
+  <updated>2019-06-02T14:30:18.902Z</updated>
   <id>https://zxf.one/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://zxf.one/2019/06/02/Spring-breeze/"/>
     <id>https://zxf.one/2019/06/02/Spring-breeze/</id>
     <published>2019-06-02T14:15:33.000Z</published>
-    <updated>2019-06-02T14:26:05.747Z</updated>
+    <updated>2019-06-02T14:30:18.902Z</updated>
     
-    <content type="html"><![CDATA[<blockquote><p>我在二环路的里边 想着你<br>你在远方的山上 春风十里<br>今天的风吹向你 下了雨<br>我说所有的酒 都不如你</p></blockquote><video controls src="http://tweet-cdn.zengxingfu.com/video/480p%E6%98%A5%E9%A3%8E%E5%8D%81%E9%87%8C.mp4"></video>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>我在二环路的里边 想着你<br>你在远方的山上 春风十里<br>今天的风吹向你 下了雨<br>我说所有的酒 都不如你</p></blockquote><video controls poster="http://tweet-cdn.zengxingfu.com/poster/VID_20190602_185815.00_00_04_21.Still001.png" src="http://tweet-cdn.zengxingfu.com/video/480p%E6%98%A5%E9%A3%8E%E5%8D%81%E9%87%8C.mp4"></video>]]></content>
     
     <summary type="html">
     
@@ -32,7 +32,7 @@
         &lt;blockquote&gt;
 &lt;p&gt;我在二环路的里边 想着你&lt;br&gt;你在远方的山上 春风十里&lt;br&gt;今天的风吹向你 下了雨&lt;br&gt;我说所有的酒 都不如你&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;video controls src=&quot;http://tweet-cdn.zengxingf
+&lt;video controls poster=&quot;http://tweet-cdn.zengxi
       
     
     </summary>
@@ -202,9 +202,9 @@
       <category term="Dairy" scheme="https://zxf.one/categories/Dairy/"/>
     
     
-      <category term="写几个字" scheme="https://zxf.one/tags/%E5%86%99%E5%87%A0%E4%B8%AA%E5%AD%97/"/>
-    
       <category term="木心" scheme="https://zxf.one/tags/%E6%9C%A8%E5%BF%83/"/>
+    
+      <category term="写几个字" scheme="https://zxf.one/tags/%E5%86%99%E5%87%A0%E4%B8%AA%E5%AD%97/"/>
     
   </entry>
   
